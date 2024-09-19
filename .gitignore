@@ -1,0 +1,33 @@
+# Eclipse specific files
+/.classpath
+/.project
+/.settings/
+
+# Java build files
+/bin/
+/build/
+/target/
+
+# Maven specific files
+/pom.xml.tag
+/pom.xml.releaseBackup
+/pom.xml.versionsBackup
+/logs/
+.mvn/
+**/target/
+**/logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Common files
+*.log
+*.class
+*.war
+*.ear
+*.jar
+*.swp
+*.swo
+*.tmp
+*.bak	
